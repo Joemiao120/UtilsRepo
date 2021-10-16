@@ -1,4 +1,3 @@
-package com.journeydigital.rymanresidentapp.utils;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
